@@ -1,6 +1,6 @@
-Pandas
-NumPy
-Matplotlib
-Seaborn
-SciPy
-Streamlit
+pip install pandas==1.3.3       # For data manipulation and analysis
+pip install numpy==1.21.2        # For numerical operations and array handling
+pip install matplotlib==3.5.1   # For data visualization
+pip install seaborn==0.11.2      # For statistical data visualization
+pip install scipy==1.7.3         # For scientific computing and optimization
+pip install streamlit==1.6.0     # For building interactive web applications
